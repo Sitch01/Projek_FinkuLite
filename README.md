@@ -19,7 +19,7 @@ Aplikasi mobile ini dikembangkan sebagai bagian dari tugas mata kuliah **Aplikas
 
 ## 📌 Aplikasi Rujukan Play Store
 
-* **Nama Aplikasi**: (isi sesuai aplikasi rujukan)
+* **Nama Aplikasi**: Finku
 * **Link Play Store**: [https://play.google.com/store](https://play.google.com/store)
 
 ---
