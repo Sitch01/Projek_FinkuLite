@@ -89,7 +89,7 @@ Berikut adalah tampilan antarmuka aplikasi dalam format **grid 2 kolom** agar ra
   </tr>
   <tr>
     <td align="center"><b>🔍 Halaman Detail Data</b><br><img src="https://github.com/user-attachments/assets/4d307fac-5106-4e64-872d-170bcc844587" width="300"/></td>
-    <td align="center"><b>🔔 Notifikasi</b><br><img src="(https://github.com/user-attachments/assets/32837771-80ca-4b25-9004-12aaf5feb82c)" width="300"/></td>
+    <td align="center"><b>🔔 Notifikasi</b><br><img src="https://github.com/user-attachments/assets/32837771-80ca-4b25-9004-12aaf5feb82c" width="300"/></td>
   </tr>
 </table>
 
