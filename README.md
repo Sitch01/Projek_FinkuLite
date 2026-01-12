@@ -19,8 +19,8 @@ Aplikasi mobile ini dikembangkan sebagai bagian dari tugas mata kuliah **Aplikas
 
 ## 📌 Aplikasi Rujukan Play Store
 
-* **Nama Aplikasi**: Finku
-* **Link Play Store**: [https://play.google.com/store](https://play.google.com/store)
+* **Nama Aplikasi**: Finku: Budget & Money Manager
+* **Link Play Store**: [[https://play.google.com/store](https://play.google.com/store](https://play.google.com/store/apps/details?id=com.finku&pcampaignid=web_share))
 
 ---
 
