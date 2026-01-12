@@ -114,7 +114,7 @@ Berikut adalah tampilan antarmuka aplikasi dalam format **grid 2 kolom** agar ra
 ### ✏️ Halaman Edit Data
 
 <p align="center">
-  <img src="PASTE_LINK_SCREENSHOT_EDIT_DATA_DI_SINI" width="300" />
+  <img src="(https://github.com/user-attachments/assets/0205b210-7353-4e5a-9ea3-e2a86198303a)" width="300" />
 </p>
 
 ---
@@ -129,8 +129,9 @@ Berikut adalah tampilan antarmuka aplikasi dalam format **grid 2 kolom** agar ra
 
 ### 🔔 Notifikasi
 
+
 <p align="center">
-  <img src="PASTE_LINK_SCREENSHOT_NOTIFIKASI_DI_SINI" width="300" />
+  <img src="(https://github.com/user-attachments/assets/32837771-80ca-4b25-9004-12aaf5feb82c)" width="300" />
 </p>
 
 ---
