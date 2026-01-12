@@ -4,7 +4,7 @@
 
 * **Nama**: Sakti Putra Pratama
 * **NIM**: 2304411111
-* **Kelas**: 5K RPL GABUNGAN 3 
+* **Kelas**: 5K RPL GABUNGAN 3
 * **Program Studi**: Informatika
 * **Fakultas**: Teknik Komputer
 * **Universitas**: Universitas Cokroaminoto Palopo
@@ -13,14 +13,14 @@
 
 ## 📝 Deskripsi Aplikasi
 
-Aplikasi mobile ini dikembangkan sebagai bagian dari tugas mata kuliah **Aplikasi Mobile II**. Aplikasi mengacu pada salah satu aplikasi yang tersedia di **Google Play Store**, dengan fokus pada penerapan **Firebase Authentication**, **Firebase Realtime Database**, serta fitur–fitur utama Android seperti **Fragment, Intent, ListView**, dan **Notifikasi**.
+Aplikasi mobile ini dikembangkan sebagai bagian dari tugas mata kuliah **Aplikasi Mobile II**. Aplikasi mengacu pada salah satu aplikasi yang tersedia di **Google Play Store**, dengan fokus pada penerapan **Firebase Authentication**, **Firebase Realtime Database**, serta fitur utama Android seperti **Fragment, Intent, ListView**, dan **Notifikasi**.
 
 ---
 
 ## 📌 Aplikasi Rujukan Play Store
 
 * **Nama Aplikasi**: Finku: Budget & Money Manager
-* **Link Play Store**: [[https://play.google.com/store](https://play.google.com/store](https://play.google.com/store/apps/details?id=com.finku&pcampaignid=web_share))
+* **Link Play Store**: [https://play.google.com/store/apps/details?id=com.finku](https://play.google.com/store/apps/details?id=com.finku)
 
 ---
 
@@ -28,8 +28,8 @@ Aplikasi mobile ini dikembangkan sebagai bagian dari tugas mata kuliah **Aplikas
 
 Aplikasi menyediakan dua metode login:
 
-* ✅ **Email / Username & Password** (Firebase Auth)
-* ✅ **Google Sign-In**
+* ✅ Email / Username & Password (Firebase Auth)
+* ✅ Google Sign-In
 
 Setelah login berhasil, pengguna akan diarahkan ke **halaman utama aplikasi**.
 
@@ -37,7 +37,7 @@ Setelah login berhasil, pengguna akan diarahkan ke **halaman utama aplikasi**.
 
 ## 🗄️ Manajemen Data (Firebase Realtime Database)
 
-Aplikasi menggunakan **Firebase Realtime Database** untuk menyimpan dan mengelola data utama dengan fitur:
+Aplikasi menggunakan **Firebase Realtime Database** untuk menyimpan dan mengelola data dengan fitur:
 
 * ➕ **Create** (Tambah Data)
 * 📖 **Read** (Tampilkan Data)
@@ -47,8 +47,6 @@ Aplikasi menggunakan **Firebase Realtime Database** untuk menyimpan dan mengelol
 ---
 
 ## 🧩 Implementasi Komponen Android
-
-Aplikasi telah mengimplementasikan komponen utama Android berikut:
 
 ### 🔹 Fragment
 
@@ -69,24 +67,71 @@ Aplikasi telah mengimplementasikan komponen utama Android berikut:
 
 ## 🔔 Fitur Notifikasi
 
-Aplikasi dilengkapi fitur notifikasi, dengan skenario:
+Aplikasi dilengkapi fitur notifikasi dengan skenario:
 
 * 🔔 **Notifikasi saat data berhasil ditambahkan**
-
-(Contoh: *"Data berhasil ditambahkan"*)
+  *(Contoh: "Data berhasil ditambahkan")*
 
 ---
 
 ## 🖼️ Screenshot Aplikasi
 
-Minimal 6 screenshot berikut disertakan:
+Berikut adalah tampilan antarmuka aplikasi dalam format **grid 2 kolom** agar rapi dan mudah dibaca:
 
-1. Halaman Login
-2. Halaman List Data
-3. Halaman Tambah Data
-4. Halaman Edit Data
-5. Halaman Detail Data
-6. Notifikasi
+<table>
+  <tr>
+    <td align="center"><b>🔐 Halaman Login</b><br><img src="https://github.com/user-attachments/assets/4944a484-0d93-47d8-bd74-6ad3afb9a059" width="300"/></td>
+    <td align="center"><b>📋 Halaman List Data</b><br><img src="https://github.com/user-attachments/assets/c3d28d4c-714c-4bc2-9ea7-68e76b0b0c0b" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>➕ Halaman Tambah Data</b><br><img src="https://github.com/user-attachments/assets/384d9ce1-62ec-4d3e-bc59-358e5fd03196" width="300"/></td>
+    <td align="center"><b>✏️ Halaman Edit Data</b><br><img src="PASTE_LINK_SCREENSHOT_EDIT_DATA_DI_SINI" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔍 Halaman Detail Data</b><br><img src="https://github.com/user-attachments/assets/4d307fac-5106-4e64-872d-170bcc844587" width="300"/></td>
+    <td align="center"><b>🔔 Notifikasi</b><br><img src="PASTE_LINK_SCREENSHOT_NOTIFIKASI_DI_SINI" width="300"/></td>
+  </tr>
+</table>
+
+---
+
+### 📋 Halaman List Data
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c3d28d4c-714c-4bc2-9ea7-68e76b0b0c0b" width="300" />
+</p>
+
+---
+
+### ➕ Halaman Tambah Data
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/384d9ce1-62ec-4d3e-bc59-358e5fd03196" width="300" />
+</p>
+
+---
+
+### ✏️ Halaman Edit Data
+
+<p align="center">
+  <img src="PASTE_LINK_SCREENSHOT_EDIT_DATA_DI_SINI" width="300" />
+</p>
+
+---
+
+### 🔍 Halaman Detail Data
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d307fac-5106-4e64-872d-170bcc844587" width="300" />
+</p>
+
+---
+
+### 🔔 Notifikasi
+
+<p align="center">
+  <img src="PASTE_LINK_SCREENSHOT_NOTIFIKASI_DI_SINI" width="300" />
+</p>
 
 ---
 
@@ -104,14 +149,6 @@ Minimal 6 screenshot berikut disertakan:
    * Firebase Authentication (Email/Password & Google)
    * Firebase Realtime Database
 5. Jalankan aplikasi menggunakan **Emulator** atau **Perangkat Android**
-
----
-
-## 📦 File Pendukung
-
-* 📁 **Repository GitHub**: (isi link repo)
-* 📱 **APK (Generated APK)**: Tersedia
-* ☁️ **Upload APK ke Drive**: Format `NIM_NAMA.zip`
 
 ---
 
