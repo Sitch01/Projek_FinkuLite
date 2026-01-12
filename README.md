@@ -131,7 +131,7 @@ Berikut adalah tampilan antarmuka aplikasi dalam format **grid 2 kolom** agar ra
 
 
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/32837771-80ca-4b25-9004-12aaf5feb82c)" width="300" />
+  <img src="https://github.com/user-attachments/assets/32837771-80ca-4b25-9004-12aaf5feb82c" width="300" />
 </p>
 
 ---
