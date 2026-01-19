@@ -80,16 +80,16 @@ Berikut adalah tampilan antarmuka aplikasi dalam format **grid 2 kolom** agar ra
 
 <table>
   <tr>
-    <td align="center"><b>🔐 Halaman Login</b><br><img src="https://github.com/user-attachments/assets/4944a484-0d93-47d8-bd74-6ad3afb9a059" width="300"/></td>
-    <td align="center"><b>📋 Halaman List Data</b><br><img src="https://github.com/user-attachments/assets/c3d28d4c-714c-4bc2-9ea7-68e76b0b0c0b" width="300"/></td>
+    <td align="center"><b>🔐 Halaman Login</b><br><img src="https://github.com/user-attachments/assets/ee310728-b05b-4542-bbb2-f205662565ea" width="300"/></td>
+    <td align="center"><b>📋 Halaman List Data</b><br><img src="https://github.com/user-attachments/assets/cf241ed2-0626-4f76-bf63-85bc8dbb480e" width="300"/></td>
   </tr>
   <tr>
-    <td align="center"><b>➕ Halaman Tambah Data</b><br><img src="https://github.com/user-attachments/assets/384d9ce1-62ec-4d3e-bc59-358e5fd03196" width="300"/></td>
-    <td align="center"><b>✏️ Halaman Edit Data</b><br><img src="PASTE_LINK_SCREENSHOT_EDIT_DATA_DI_SINI" width="300"/></td>
+    <td align="center"><b>➕ Halaman Tambah Data</b><br><img src="https://github.com/user-attachments/assets/71a85bed-0baf-44cf-afdc-40677ba6be74" width="300"/></td>
+    <td align="center"><b>✏️ Halaman Edit Data</b><br><img src="https://github.com/user-attachments/assets/a54e2498-128a-47ca-81a3-a5689e720614" width="300"/></td>
   </tr>
   <tr>
-    <td align="center"><b>🔍 Halaman Detail Data</b><br><img src="https://github.com/user-attachments/assets/4d307fac-5106-4e64-872d-170bcc844587" width="300"/></td>
-    <td align="center"><b>🔔 Notifikasi</b><br><img src="PASTE_LINK_SCREENSHOT_NOTIFIKASI_DI_SINI" width="300"/></td>
+    <td align="center"><b>🔍 Halaman Detail Data</b><br><img src="https://github.com/user-attachments/assets/1b3b9bec-2239-41e3-8b47-0b5f9a440f44" width="300"/></td>
+    <td align="center"><b>🔔 Notifikasi</b><br><img src="https://github.com/user-attachments/assets/b9967db1-2460-48a7-8783-90148986d95a" width="300"/></td>
   </tr>
 </table>
 
@@ -102,37 +102,6 @@ Berikut adalah tampilan antarmuka aplikasi dalam format **grid 2 kolom** agar ra
 </p>
 
 ---
-
-### ➕ Halaman Tambah Data
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/384d9ce1-62ec-4d3e-bc59-358e5fd03196" width="300" />
-</p>
-
----
-
-### ✏️ Halaman Edit Data
-
-<p align="center">
-  <img src="PASTE_LINK_SCREENSHOT_EDIT_DATA_DI_SINI" width="300" />
-</p>
-
----
-
-### 🔍 Halaman Detail Data
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4d307fac-5106-4e64-872d-170bcc844587" width="300" />
-</p>
-
----
-
-### 🔔 Notifikasi
-
-<p align="center">
-  <img src="PASTE_LINK_SCREENSHOT_NOTIFIKASI_DI_SINI" width="300" />
-</p>
-
 ---
 
 ## ▶️ Cara Menjalankan Aplikasi
