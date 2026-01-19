@@ -1,0 +1,27 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@drawable/dialog_background"
+    android:gravity="center"
+    android:elevation="8dp">
+
+<ProgressBar
+android:id="@+id/progressBar"
+android:layout_width="48dp"
+android:layout_height="48dp"
+android:indeterminateTint="#6A66FF"
+    android:layout_gravity="center" />
+
+<TextView
+android:id="@+id/tvLoadingMessage"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Logging..."
+android:textColor="#FFFFFF"
+    android:textSize="16sp"
+    android:layout_marginTop="16dp"
+    android:gravity="center" />
+    </LinearLayout>

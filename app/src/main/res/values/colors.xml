@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0066FF</color>
+    <color name="primaryDark">#0044CC</color>
+    <color name="accent">#FFBB00</color> <!-- Untuk FAB kuning/orange -->
+    <color name="income_green">#4CAF50</color>
+    <color name="expense_red">#F44336</color>
+    <color name="chart_gray">#BBBBBB</color>
+    <color name="gray">#888888</color>  <!-- abu-abu sedang -->
+
+
+
+    <color name="purple_200">#6A66FF</color>
+    <color name="purple_500">#554FF6</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="background_color">#FFFFFF</color>
+    <color name="colorSurfaceBack">#121212</color>
+    <color name="blue_200">#1392CE</color>
+    <color name="blue_500">#0F6F9D</color>
+    <color name="blue_700">#0A4A68</color>
+
+
+    <color name="button">#3F51B5</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="bottomNav">#FFFFFF</color>
+    <color name="background">#F6F6F7</color>
+    <color name="background_deep">#EFEFEF</color>
+    <color name="textSecondary">#575A6C</color>
+    <color name="textPrimary">#44475B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#0000FFFF</color>
+    <color name="splashBackground">#232C3D</color>
+
+    //Pi chart Colors
+    <color name="green">#00D09C</color>
+    <color name="green_light">#E6FBF6</color>
+    <color name="red">#FF585D</color>
+    <color name="red_light">#FFEEEF</color>
+    <color name="lightBrown">#5367FF</color>
+    <color name="lightBrown_light">#EEF0FF</color>
+    <color name="violet">#893168</color>
+    <color name="violet_light">#FFDEF3</color>
+    <color name="yellow">#FFB61B</color>
+    <color name="yellow_light">#FFF9EC</color>
+    <color name="lightBlue">#1DA1F2</color>
+    <color name="lightBlue_light">#E8F6FE</color>
+</resources>

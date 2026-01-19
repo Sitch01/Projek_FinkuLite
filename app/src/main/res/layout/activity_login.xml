@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1E88E5"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:paddingHorizontal="32dp"
+        android:paddingTop="64dp"
+        android:paddingBottom="40dp">
+
+        <ImageView
+            android:id="@+id/iv_mascot"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_marginBottom="16dp"
+            android:src="@drawable/avatar1"
+            android:contentDescription="Finku mascot"
+            android:scaleType="centerInside" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FINKU"
+            android:textColor="#FFFFFF"
+            android:textSize="52sp"
+            android:fontFamily="@font/poppins_bold"
+            android:letterSpacing="0.03"
+            android:includeFontPadding="false" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Spend less, save more"
+            android:textColor="#BBDEFB"
+            android:textSize="17sp"
+            android:fontFamily="@font/poppins_medium"
+            android:layout_marginTop="6dp"
+            android:includeFontPadding="false" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="64dp"
+            app:cardCornerRadius="32dp"
+            app:cardElevation="0dp"
+            app:cardBackgroundColor="#FFFFFF">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="32dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Login ke akunmu"
+                    android:textColor="#212121"
+                    android:textSize="26sp"
+                    android:fontFamily="@font/poppins_bold"
+                    android:includeFontPadding="false" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/til_email"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="32dp"
+                    app:boxStrokeColor="#2196F3"
+                    app:boxStrokeWidth="2dp"
+                    app:boxStrokeWidthFocused="2.8dp"
+                    app:boxCornerRadiusTopStart="20dp"
+                    app:boxCornerRadiusTopEnd="20dp"
+                    app:boxCornerRadiusBottomStart="20dp"
+                    app:boxCornerRadiusBottomEnd="20dp"
+                    app:hintTextColor="#757575">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/email"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Email"
+                        android:inputType="textEmailAddress"
+                        android:textColor="#212121"
+                        android:textSize="16sp"
+                        android:paddingVertical="16dp" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/til_password"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="24dp"
+                    app:boxStrokeColor="#2196F3"
+                    app:boxStrokeWidth="2dp"
+                    app:boxStrokeWidthFocused="2.8dp"
+                    app:boxCornerRadiusTopStart="20dp"
+                    app:boxCornerRadiusTopEnd="20dp"
+                    app:boxCornerRadiusBottomStart="20dp"
+                    app:boxCornerRadiusBottomEnd="20dp"
+                    app:hintTextColor="#757575"
+                    app:passwordToggleEnabled="true"
+                    app:passwordToggleTint="#2196F3">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/password"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Password"
+                        android:inputType="textVisiblePassword"
+                        android:textColor="#212121"
+                        android:textSize="16sp"
+                        android:paddingVertical="16dp" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/login"
+                    android:layout_width="match_parent"
+                    android:layout_height="58dp"
+                    android:layout_marginTop="32dp"
+                    android:text="Login"
+                    android:textSize="17sp"
+                    android:textAllCaps="false"
+                    android:fontFamily="@font/poppins_medium"
+                    android:textColor="#FFFFFF"
+                    app:backgroundTint="#2196F3"
+                    app:cornerRadius="20dp"
+                    app:rippleColor="#1565C0" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="atau"
+                    android:textSize="13sp"
+                    android:textColor="#9E9E9E"
+                    android:fontFamily="@font/poppins_medium"
+                    android:layout_marginVertical="16dp" />
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btn_google_login"
+                    android:layout_width="match_parent"
+                    android:layout_height="58dp"
+                    android:text="Masuk dengan Google"
+                    android:textSize="16sp"
+                    android:textAllCaps="false"
+                    android:textColor="#212121"
+                    android:fontFamily="@font/poppins_medium"
+                    style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                    app:icon="@drawable/ic_google"
+                    app:iconGravity="textStart"
+                    app:iconPadding="12dp"
+                    app:iconTint="@null"
+                    app:strokeColor="#E0E0E0"
+                    app:strokeWidth="1dp"
+                    app:cornerRadius="20dp"
+                    app:rippleColor="#F5F5F5" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/tv_forgot_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lupa password?"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            android:fontFamily="@font/poppins_medium"
+            android:layout_marginTop="32dp"
+            android:clickable="true"
+            android:focusable="true"
+            tools:ignore="SmallSp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Baru di Finku? "
+                android:textColor="#E3F2FD"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/signup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Buat Akun"
+                android:textColor="#FFFFFF"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:clickable="true"
+                android:focusable="true" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_help"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pusat Bantuan"
+            android:textColor="#BBDEFB"
+            android:textSize="15sp"
+            android:fontFamily="@font/poppins_medium"
+            android:layout_marginTop="36dp"
+            android:clickable="true"
+            android:focusable="true" />
+
+    </LinearLayout>
+</ScrollView>

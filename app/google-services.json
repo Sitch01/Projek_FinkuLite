@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1007030332940",
+    "project_id": "finkuproject",
+    "storage_bucket": "finkuproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007030332940:android:2b2d7c35ca55622cbdc829",
+        "android_client_info": {
+          "package_name": "com.talhaatif.financeapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007030332940-71cmm1epmac48b1429ojceriku5aand0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.talhaatif.financeapk",
+            "certificate_hash": "856104ad28e7290cd004e71abab5b751a2edf190"
+          }
+        },
+        {
+          "client_id": "1007030332940-n6cniam7d95iarco9le42uinpf362dpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfMYYFsxu7ZFICvPtASclOLYJmQ4QLrbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007030332940-n6cniam7d95iarco9le42uinpf362dpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

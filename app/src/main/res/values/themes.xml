@@ -1,0 +1,86 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.FinanceApk" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary color (Main Color: #6A66FF) -->
+        <item name="colorPrimary">#6A66FF</item>
+        <item name="colorPrimaryVariant">#554FF6</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Secondary color -->
+        <item name="colorSecondary">#6A66FF</item>
+        <item name="colorSecondaryVariant">#554FF6</item>
+        <item name="colorOnSecondary">#000000</item>
+
+        <!-- Background color (Black) -->
+        <item name="android:windowBackground">#000000</item>
+        <item name="colorSurface">#121212</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+
+        <!-- Text Colors -->
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <!-- Elevated Components -->
+        <item name="colorBackgroundFloating">#121212</item>
+    </style>
+
+
+
+
+    <!-- Amount Style -->
+    <style name="TextAppearance.AmountBalance" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.AmountIncome" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="android:textColor">@color/green</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.AmountExpense" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Labels -->
+    <style name="TextAppearance.Label" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">?attr/colorOnSurface</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- HeadLines -->
+    <style name="TextAppearance.HeadLine1Bold" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="android:textColor">@color/purple_200</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.HeadLine2Bold" parent="TextAppearance.MaterialComponents.Headline2">
+        <item name="android:textColor">@color/purple_200</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.HeadLine3Bold" parent="TextAppearance.MaterialComponents.Headline3">
+        <item name="android:textColor">@color/purple_200</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <style name="TextAppearance.HeadLine1" parent="TextAppearance.MaterialComponents.Headline3">
+        <item name="android:textColor">@color/purple_200</item>
+    </style>
+
+    <style name="TextAppearance.HeadLine2" parent="TextAppearance.MaterialComponents.Headline2">
+        <item name="android:textColor">@color/purple_200</item>
+    </style>
+
+    <style name="TextAppearance.HeadLine3" parent="TextAppearance.MaterialComponents.Headline3">
+        <item name="android:textColor">@color/purple_200</item>
+    </style>
+
+
+    <!-- Inputs -->
+    <style name="TextAppearance.Input" parent="TextAppearance.MaterialComponents.Button">
+        <item name="android:textColor">?attr/colorOnSurface</item>
+    </style>
+
+</resources>
