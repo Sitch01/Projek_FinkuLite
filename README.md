@@ -94,13 +94,6 @@ Berikut adalah tampilan antarmuka aplikasi dalam format **grid 2 kolom** agar ra
 </table>
 
 ---
-
-### 📋 Halaman List Data
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c3d28d4c-714c-4bc2-9ea7-68e76b0b0c0b" width="300" />
-</p>
-
 ---
 ---
 
